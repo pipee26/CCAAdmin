@@ -1,0 +1,83 @@
+/* dubir datos */
+body{
+    background: rgb(33, 140, 228);
+}
+label{
+    color: #fff;
+    font-size: 20px;
+}
+#btnagregardatos{
+    text-align: center;
+}
+#tablacontacto{
+    float: center;
+    margin-top: 10px;
+    color: #fff;
+    
+}
+#inputimg{
+   margin-left: auto;
+   margin-right: auto;
+}
+
+/* editar datos */
+
+#divimagen{
+    display: block;
+    margin: auto;
+}
+#divlabelnombrecarrusel{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#urlimagen{
+    margin-left: auto;
+    margin-right: auto;
+}
+#inputnombrecarrusel{
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+#h3tabla{
+    text-align: center;
+    color: #fff;
+}
+
+/* update */
+
+#h3contactomod{
+    margin-top: 20px;
+}
+#btncontactodelete{
+    margin-left: 100px;
+    margin-top: 10px;
+    
+}
+#divnombrecarrusel{
+   
+    display: block;
+    margin: auto; 
+}
+
+/* delete */
+
+#delete{
+    margin-top: 20px;
+}
+#btndelete{
+    margin-left: 100px;
+    margin-top: 10px;
+    
+}
+#imgcontactd{
+    width: 600px;
+    display: block;
+    margin: auto;
+}
+#ae{
+    text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+ }

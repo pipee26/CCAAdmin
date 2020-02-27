@@ -1,0 +1,49 @@
+body{
+    background: rgb(33, 140, 228);
+}
+label{
+    color: #fff;
+}
+/* tablaempresas */
+#tablacontacto{
+    color: rgb(3, 3, 3);
+}
+#h3tabla{
+    text-align: center;
+    color: #fff;
+}
+#divbtntablaregresar{
+    text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* seleccionarimagen */
+#divimagen{
+    justify-content: center;
+}
+#divselectipo{
+    
+    text-align: center;
+}
+#selecttipo{
+    margin-left: auto;
+    margin-right: auto;
+}
+#divlabelcurso{
+    margin-left: auto;
+    margin-right: auto;
+}
+#ae{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+/* update */
+#imgcontact{
+width: 500px;
+display: block;
+    margin: auto;
+}
+

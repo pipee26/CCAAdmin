@@ -1,0 +1,67 @@
+/* iniciocca */
+
+/* body{
+    background-image: url("imglogin/fondogral.jpg");
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+} */
+
+/* carruselinicial */
+body{
+     background: rgb(33, 140, 228);
+}
+#inputimg{
+    
+    /* margin: auto; */
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+#labelseleccionimagen{
+    color: #fff;
+    font-size: 22px;
+    
+    margin-top: 10px;
+}
+#btnsubirimgcarrusel{
+    
+    text-align: center;
+    
+}
+
+#inputnombrecarrusel{
+    
+        margin-left: 515px;
+}
+#tablacarrusel{
+    margin: auto;
+}
+
+/* editcarrusel */
+
+#h3modnombre{
+    margin-top: 15px;
+
+}
+#labelmodnombre{
+    color: #fff;
+}
+#h3carruselmod{
+    margin-top: 20px;
+}
+#btncarruseldelete{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+/* eliminar carrusel */
+
+#diveliminar{
+   margin-top: 30px;
+}
+#btnbackeliminar{
+    margin-left: 100px;
+}

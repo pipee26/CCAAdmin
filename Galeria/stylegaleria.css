@@ -1,0 +1,47 @@
+body{
+    background: rgb(33, 140, 228);
+}
+label{
+    color: #fff;
+}
+/* subir */
+#btnsubirmeses{
+    margin-top: 20px;
+}
+#divimagen{
+    justify-content: center;
+}
+#divlabelcurso{
+    margin-left: auto;
+    margin-right: auto;
+}
+#divbtnmeses{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+/* subirgaleria */
+#divselectipo{
+    
+    text-align: center;
+}
+#selecttipo{
+    margin-left: auto;
+    margin-right: auto;
+}
+#divbtnsubgaleria{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+#h3tabla{
+    text-align: center;
+    color: #fff;
+}
+#imgcontact{
+    width: 500px;
+    display: block;
+    margin: auto;
+    }

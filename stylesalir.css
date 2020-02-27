@@ -1,0 +1,26 @@
+#imglogout{
+    width: 40px;
+    margin-top: -650px;
+    float: right;
+    margin-right: 5px;
+    padding: 5px 5px 5px 5px;
+    border: 2px solid #000;
+    background-color: rgb(218, 0, 0);
+    border-radius: 10px;
+}
+#imglogout:hover{
+    background:  rgba(218, 0, 0, 0.521);
+}
+#backup{
+    width: 40px;
+    margin-top: -600px;
+    float: right;
+    margin-right: 5px;
+    padding: 5px 5px 5px 5px;
+    border: 2px solid #000;
+    background-color: rgb(61, 115, 231);
+    border-radius: 10px;
+}
+#backup:hover{
+    background:  rgba(40, 119, 221, 0.521);
+}

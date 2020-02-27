@@ -1,0 +1,45 @@
+body{
+    background: rgb(33, 140, 228);
+}
+label{
+    color: #fff;
+}
+
+/* tablacontacto */
+#tablacontacto{
+    color: rgb(3, 3, 3);
+}
+#h3tabla{
+    text-align: center;
+    color: #fff;
+}
+/* subir */
+#divfecha{
+    
+   justify-content: center;
+   
+   
+}
+#divlabelcurso{
+    margin-left: auto;
+    margin-right: auto;
+}
+#ae{
+    text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+ }
+ #imgcontact{
+    width: 500px;
+    display: block;
+        margin: auto;
+}
+/* usuarionuevo */
+#divselectipo{
+    text-align: center;
+}
+#selecttipo{
+    margin-left: auto;
+    margin-right: auto;
+}
+    
